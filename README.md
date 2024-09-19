@@ -13,5 +13,5 @@ npm install
 
 ## Authors
 
-* *Senior fullstack developer* - [climax1115](https://github.com/climax1115)
+* *Senior fullstack developer* - [codetitan2735](https://github.com/codetitan2735)
 
